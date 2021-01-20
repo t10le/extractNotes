@@ -19,6 +19,4 @@ Simply replace the contents inside the quotes with their relative action from th
 |`set fileSRC "/usr/courses/cps590/"`| with the directory of the files you wish to extract from. |`set fileSRC "/home/CourseList/CPS999/"`|
 `set fileDST "."`| with the directory of where you wish the extracted files should be saved to.<br />NOTE: Leave it as `set fileDST "."` to store the extracted files in the same directory as where the `extractNotes.sh` is located.|`set fileDST "/Users/FooBar/desktop"`|
 
-...
-
-...
+Next, open up the terminal (Mac OS) or cmd (Windows) and navigate to where this file is located.
