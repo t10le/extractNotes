@@ -1,6 +1,5 @@
 # extractNotes
-A shell script designed to simplify the process of extracting and perdiocally updating course material from an institution's network.\
-No more typing – just execute!
+A shell script designed to simplify the process of extracting and perdiocally updating course material from an institution's network. No more typing – just execute!
 
 This particular script accesses Ryerson University's Moon server to automatically extract ALL of a specified course's data, and then stores it at the current location of where this script resides in.
 
