@@ -5,3 +5,7 @@ The login credentials are stored **locally**, so ensure that any local users do 
 
 ![DEMO GIF](https://github.com/t10le/extractNotes/blob/main/demo2.gif)
 Click the .gif above for a clearer demo!
+
+## How to Use for your University/College
+* 1) change `set USER "insert_yourUserName"` with your registered institution's student username
+* 2) chanhe 
