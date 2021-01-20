@@ -10,12 +10,15 @@ Click the .gif above for a clearer demo!
 
 
 ## How to Use for your University/College Course(s)
-Simply replace the contents inside the quotes from the following:
-1. `set USER "insert_yourUserName"` with your registered student username used to log into your institution's computer network.
-2. `set PASS "insert_yourPassword"` with your password used to log into your institution's computer network.
-  * NOTE: Your password will be visible to anyone who has direct access to the `extractNotes.sh` file.
-3. `set myhost "@moon.scs.ryerson.ca"` with your institution's hostname.
-4. `set fileSRC "/usr/courses/cps590/"` with the directory of the files you wish to extract from.
-5. `set fileDST "."` with the directory of where you wish the extracted files should be saved to.
-  * NOTE: Leave it as `set fileDST "."` to store the extracted files in the same directory as where the `extractNotes.sh` is located.
+Simply replace the contents inside the quotes with their relative action from the following:
+| Code        | Action           | Example  |
+| ------------- |:-------------:| -----:|
+| `set USER "insert_yourUserName"`   | with your registered student username used to log into your institution's computer network. | `set USER "FooBar"` |
+| `set PASS "insert_yourPassword"`   | with your password used to log into your institution's computer network.<br />NOTE: Your password will be visible to anyone who has direct access to the `extractNotes.sh` file.|`set PASS "password123"`|
+| `set myhost "@moon.scs.ryerson.ca"`| with your institution's hostname.|`set myhost "@athena.dialup.mit.edu"`|
+|`set fileSRC "/usr/courses/cps590/"`| with the directory of the files you wish to extract from. |`set fileSRC "/home/CourseList/CPS999/"`|
+`set fileDST "."`| with the directory of where you wish the extracted files should be saved to.<br />NOTE: Leave it as `set fileDST "."` to store the extracted files in the same directory as where the `extractNotes.sh` is located.|`set fileDST "/Users/FooBar/desktop"`|
 
+...
+
+...
