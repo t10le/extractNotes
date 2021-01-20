@@ -20,7 +20,7 @@ Simply replace the contents inside the quotes with their relative action from th
 |`set fileSRC "insert_TargetDirectory"`| with the **directory source** of the files you wish to extract from. |`set fileSRC "/home/CourseList/CPS999/"`|
 `set fileDST "."`| with the **directory destination** of where you wish the extracted files should be saved to.<br />NOTE: Leave it as `set fileDST "."` to store the extracted files in the same directory as where the `extractNotes.sh` is located.|`set fileDST "/Users/FooBar/desktop"`|
 
-Next, open up the terminal (Mac OS) or cmd (Windows) and navigate to where this file is located.\
+Next, open up the terminal (Mac OS) or cmd (Windows) and navigate to where `extractNotes.sh` is located.\
 Follow the .gif below if you're new to console navigation:
 ![DEMO GIF2](https://github.com/t10le/extractNotes/blob/main/demo2.gif)
 
