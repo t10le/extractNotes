@@ -7,6 +7,7 @@ The login credentials are stored **locally**, so ensure that any local users do 
 
 ![DEMO GIF](https://github.com/t10le/extractNotes/blob/main/demo2.gif)
 Click the .gif above for a clearer demo!
+![](https://github.com/t10le/extractNotes/blob/main/demo.gif)
 
 ## How to Use for your University/College Course(s)
 Simply replace the contents inside the quotes from the following:
