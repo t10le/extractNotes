@@ -14,5 +14,5 @@ Simply replace the contents inside the quotes from the following:
 3. `set myhost "@moon.scs.ryerson.ca"` with your institution's hostname.
 4. `set fileSRC "insert_directoryToBeExtractedFrom"` with the directory of the files you wish to extract from.
 5. `set fileDST "."` with the directory of where you wish the extracted files should be saved to.
-  * NOTE: Leave it as `set fileDST="."` to store the extracted files in the same directory as where the `extractNotes.sh` is located.
+  * NOTE: Leave it as `set fileDST "."` to store the extracted files in the same directory as where the `extractNotes.sh` is located.
 
