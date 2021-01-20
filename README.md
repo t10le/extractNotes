@@ -5,9 +5,9 @@ This particular script accesses Ryerson University's Moon server to extract ALL 
 
 The login credentials are stored **locally**, so ensure that any local users do not have access to this file, or they will be able to see the hardcoded sensitive information!
 
-![DEMO GIF](https://github.com/t10le/extractNotes/blob/main/demo2.gif)
+![DEMO GIF](https://github.com/t10le/extractNotes/blob/main/demo.gif)
 Click the .gif above for a clearer demo!
-![](https://github.com/t10le/extractNotes/blob/main/demo.gif)
+
 
 ## How to Use for your University/College Course(s)
 Simply replace the contents inside the quotes from the following:
