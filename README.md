@@ -6,7 +6,7 @@ This particular script accesses Ryerson University's Moon server to automaticall
 
 The login credentials are stored **locally**, so ensure that any local users do not have access to this file, or they will be able to see the hardcoded sensitive information!
 
-![DEMO GIF](https://github.com/t10le/extractNotes/blob/main/demo.gif)
+![DEMO GIF](https://github.com/t10le/extractNotes/blob/main/demo/demo.gif)
 Click the .gif above for a clearer demo!
 
 
@@ -22,6 +22,6 @@ Simply replace the contents inside the quotes with their relative action from th
 
 Next, open up the terminal (Mac OS) or cmd (Windows) and navigate to where `extractNotes.sh` is located.\
 Follow the .gif below if you're new to console navigation:
-![DEMO GIF2](https://github.com/t10le/extractNotes/blob/main/demo2.gif)
+![DEMO GIF2](https://github.com/t10le/extractNotes/blob/main/demo/demo2.gif)
 
 Lastly, execute the script by typing `./extractNotes`
